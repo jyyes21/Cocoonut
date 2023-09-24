@@ -28,7 +28,7 @@
         </div>
         <div class="md:w-6/12 w-full h-full mx-auto lg:px-5 px-5">
             <div>
-                <span class="text-[35px] w-full flex justify-center font-[600] py-20">CONTACTEZ-NOUS</span>
+                <span class="text-[35px] w-full flex justify-center font-[600] py-18">CONTACTEZ-NOUS</span>
             </div>
             <div class="flex items-center justify-center">
 
@@ -93,7 +93,7 @@
                         name="message"
                         id="message"
                         placeholder="Message"
-                        class="placeholder-stone-800/50 w-full resize-y rounded-md shadow-inner bg-stone-200 pt-3 px-6 text-base font-medium text-stone-600 outline-none"
+                        class="placeholder-stone-800/50 w-full resize-none rounded-md shadow-inner bg-stone-200 pt-3 px-6 text-base font-medium text-stone-600 outline-none"
                         ></textarea>
                     </div>
                     <hr class="mb-10 bg-black w-full h-1 rounded-full">
